@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/data/asalvatore/workspaces/experimental_rfid_simulator/build_Debug",
+  "command": "/data/asalvatore/dev-tools/gcc-12.1.0/bin/g++  -I/data/asalvatore/workspaces/experimental_rfid_simulator/src -I/data/asalvatore/workspaces/experimental_rfid_simulator/external/paho.mqtt.cpp/include -isystem /data/asalvatore/workspaces/experimental_rfid_simulator/external/paho_install/usr/local/include -isystem /data/asalvatore/workspaces/experimental_rfid_simulator/external/paho_install/include -g -std=c++17 -o CMakeFiles/rfid_simulator.dir/app/main.cpp.o -c /data/asalvatore/workspaces/experimental_rfid_simulator/app/main.cpp",
+  "file": "/data/asalvatore/workspaces/experimental_rfid_simulator/app/main.cpp"
+},
+{
+  "directory": "/data/asalvatore/workspaces/experimental_rfid_simulator/build_Debug",
+  "command": "/data/asalvatore/dev-tools/gcc-12.1.0/bin/g++  -I/data/asalvatore/workspaces/experimental_rfid_simulator/src -I/data/asalvatore/workspaces/experimental_rfid_simulator/external/paho.mqtt.cpp/include -isystem /data/asalvatore/workspaces/experimental_rfid_simulator/external/paho_install/usr/local/include -isystem /data/asalvatore/workspaces/experimental_rfid_simulator/external/paho_install/include -g -std=c++17 -o CMakeFiles/rfid_simulator.dir/src/rfic_controller.cpp.o -c /data/asalvatore/workspaces/experimental_rfid_simulator/src/rfic_controller.cpp",
+  "file": "/data/asalvatore/workspaces/experimental_rfid_simulator/src/rfic_controller.cpp"
+}
+]
