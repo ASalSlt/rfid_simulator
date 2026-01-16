@@ -1,3 +1,0 @@
-/data/asalvatore/workspaces/experimental_rfid_simulator/build_Debug/CMakeFiles/rfid_simulator.dir
-/data/asalvatore/workspaces/experimental_rfid_simulator/build_Debug/CMakeFiles/edit_cache.dir
-/data/asalvatore/workspaces/experimental_rfid_simulator/build_Debug/CMakeFiles/rebuild_cache.dir
